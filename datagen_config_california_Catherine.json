@@ -1,0 +1,9 @@
+{
+    "json_path": "/home/cmn60/cape_town_segmentation/data/metadata/SolarArrayPolygons.geojson",
+    "image_path": "/home/cmn60/cape_town_segmentation/data/",
+    "dataset_path": "/home/cmn60/cape_town_segmentation/data/cal_data",
+    "gers": false,
+    "image_size": 320,
+    "shuffle": true,
+    "test_split": 0.25
+}
